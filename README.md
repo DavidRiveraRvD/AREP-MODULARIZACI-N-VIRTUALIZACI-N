@@ -41,11 +41,11 @@ mvn test
 
 Pruebas compiladas correctamente para el código fuente **RoundRobin**.
 
-![img](https://github.com/DavidRiveraRvD/AREP-MODULARIZACION-VIRTUALIZACION/resources/compilacionrobin.PNG)
+![img](https://github.com/DavidRiveraRvD/AREP-MODULARIZACION-VIRTUALIZACION/blob/main/resources/robin.png)
 
 Pruebas compiladas correctamente para el código fuente **LogService**.
 
-![img](https://github.com/DavidRiveraRvD/AREP-MODULARIZACION-VIRTUALIZACION/resources/compilacionlog.PNG)
+![img](https://github.com/DavidRiveraRvD/AREP-MODULARIZACION-VIRTUALIZACION/blob/main/resources/log.png)
 
 ----------
 
